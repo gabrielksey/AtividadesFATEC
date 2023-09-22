@@ -11,6 +11,6 @@ arrayPrint.forEach(function (linha) {
     linha.forEach(function (valor) {
       if (valor > 10) {
         console.log(valor);
-      }
+        }
     });
-  });
+});
